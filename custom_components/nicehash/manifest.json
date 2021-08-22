@@ -1,7 +1,7 @@
 {
     "domain": "nicehash",
     "name": "NiceHash",
-    "documentation": "https://github.com/RomRider/ha_nicehash",
+    "documentation": "https://github.com/jdeath/ha_nicehash",
     "dependencies": [],
     "codeowners": ["@RomRider"],
     "requirements": [],
